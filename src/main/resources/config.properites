@@ -1,0 +1,10 @@
+#扫描文件目录
+BASE_PATH=C:\\Users\\tuwh\\Desktop\\branches\\PROD_BRANCH_20180814
+#输出文件路径
+OUTPUT_PATH=
+#输出文件名
+OUTPUT_FILE_NAME=
+#文件名
+FILE_SIZE_UTIL=B
+#目录前缀,会被替换
+PRE_PATH=/BBSP4.0.6/bank/qdyh/;/src/main/java;/src/main
